@@ -9,7 +9,7 @@
 - [24.10.31](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Oct/2024-10-31.md) - [CSP, 비지니스 로직]
 - [24.10.30](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Oct/2024-10-30.md) - [CSR vs SSR vs SSG]
 - [24.10.29](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Oct/2024-10-29.md) - [CSS 단위 비교]
-- [24.10.28](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Oct/2024-10-29.md) - [Web Component]
+- [24.10.28](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Oct/2024-10-28.md) - [Web Component]
 
 ### [10월 4째주, 1주차] : 웹 기초
 
