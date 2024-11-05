@@ -2,6 +2,7 @@
 
 ### [11월 2째주, 4주차] : 웹 응용 2
 
+- [24.11.05](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-05.md) - [CDN, Cookie/Storage/Session]
 - [24.11.04](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-04.md) - [함수 선언문 vs 표현식, 구조 분해 할당]
 
 ### [11월 1째주, 3주차] : 웹 응용
