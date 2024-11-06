@@ -2,6 +2,7 @@
 
 ### [11월 2째주, 4주차] : 웹 응용 2
 
+- [24.11.06](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-06.md) - [조건부 요청 헤더, 사용자 인증 방식]
 - [24.11.05](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-05.md) - [CDN, Cookie/Storage/Session]
 - [24.11.04](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-04.md) - [함수 선언문 vs 표현식, 구조 분해 할당]
 
