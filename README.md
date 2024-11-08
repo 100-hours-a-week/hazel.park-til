@@ -2,6 +2,7 @@
 
 ### [11월 2째주, 4주차] : 웹 응용 2
 
+- [24.11.08](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-08.md) - [React Hooks]
 - [24.11.07](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-07.md) - [Status Code, REST API]
 - [24.11.06](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-06.md) - [조건부 요청 헤더, 사용자 인증 방식]
 - [24.11.05](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-05.md) - [CDN, Cookie/Storage/Session]
