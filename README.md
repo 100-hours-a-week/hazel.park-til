@@ -2,9 +2,9 @@
 
 ### [11월 2째주, 4주차] : 웹 응용 2
 
-- [24.11.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-11.md) - [MPA와 SPA]
-- [24.11.12](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-10.md) - [Intersection Observer API, 인피니티 스크롤]
-- [24.11.11](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-09.md) - [ERD 설계와 IE/Crow's Foot 방식]
+- [24.11.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-13.md) - [MPA와 SPA]
+- [24.11.12](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-12.md) - [Intersection Observer API, 인피니티 스크롤]
+- [24.11.11](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-11.md) - [ERD 설계와 IE/Crow's Foot 방식]
 - [24.11.08](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-08.md) - [React Hooks]
 - [24.11.07](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-07.md) - [Status Code, REST API]
 - [24.11.06](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-06.md) - [조건부 요청 헤더, 사용자 인증 방식]
