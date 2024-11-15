@@ -2,6 +2,7 @@
 
 ### [11월 2째주, 4주차] : React, DB
 
+- [24.11.15](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-15.md) - [Schema, Index, Join]
 - [24.11.14](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-14.md) - [왜 Context API는 잘 쓰지 않을까?]
 - [24.11.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-13.md) - [MPA와 SPA]
 - [24.11.12](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-12.md) - [Intersection Observer API, 인피니티 스크롤]
