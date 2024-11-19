@@ -2,6 +2,7 @@
 
 ### [11월 3째주, 5주차] : DB
 
+- [24.11.19](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-19.md) - [카카오 로그인 API]
 - [24.11.18](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-18.md) - [Index 심화]
 
 ### [11월 2째주, 4주차] : React, DB
