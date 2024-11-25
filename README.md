@@ -1,5 +1,10 @@
 ## 🍥 Today I Learned
 
+### [11월 4째주, 6주차] : DB, AWS
+- [24.11.25](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-25.md) - [RDBMS, NoSQL]
+
+
+
 ### [11월 3째주, 5주차] : DB
 
 - [24.11.21](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-21.md) - [CAP Theorem]
