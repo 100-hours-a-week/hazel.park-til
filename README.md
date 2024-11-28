@@ -2,6 +2,7 @@
 
 ### [11월 4째주, 6주차] : DB, AWS
 
+- [24.11.28](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-28.md) - [레거시 코드에 임하는 우리의 자세]
 - [24.11.27](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-27.md) - [HTTPS, SSL/TLS]
 - [24.11.26](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-26.md) - [MIME type 에러]
 - [24.11.25](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Nov/2024-11-25.md) - [RDBMS, NoSQL]
