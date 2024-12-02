@@ -1,5 +1,9 @@
 ## 🍥 Today I Learned
 
+### [12월 1째주, 7주차] : AWS
+
+- [24.12.02](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-02.md) - [pm2, `Got an error reading communication packets`,`PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR`]
+
 ### [11월 4째주, 6주차] : DB, AWS
 
 - [24.12.01](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-01.md) - [베어메탈 서버, 커널, 하이퍼바이저]
