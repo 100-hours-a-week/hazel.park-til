@@ -2,6 +2,7 @@
 
 ### [12월 1째주, 7주차] : AWS
 
+- [24.12.04](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-04.md) - [API 아키텍처, 나는 왜 GraphQL을 사용해보지 않았을까]
 - [24.12.03](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-03.md) - [nginx, 블루 그린 배포]
 - [24.12.02](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-02.md) - [pm2, `Got an error reading communication packets`,`PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR`]
 
