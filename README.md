@@ -1,7 +1,8 @@
 ## 🍥 Today I Learned
 
-### [12월 2째주, 8주차] : Docker
+### [12월 2째주, 8주차] : Docker, 알고리즘
 
+- [24.12.10](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-10.md) - [알고리즘 - 트리의 지름]
 - [24.12.09](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-09.md) - [Docker]
 
 ### [12월 1째주, 7주차] : AWS, C++
