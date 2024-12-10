@@ -1,5 +1,9 @@
 ## 🍥 Today I Learned
 
+### [12월 2째주, 8주차] : Docker
+
+- [24.12.09](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-09.md) - [Docker]
+
 ### [12월 1째주, 7주차] : AWS, C++
 
 - [24.12.05](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-05.md) - [DFS, BFS, C++ Vector]
