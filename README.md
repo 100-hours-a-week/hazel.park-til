@@ -2,6 +2,7 @@
 
 ### [12월 2째주, 8주차] : Docker, 알고리즘
 
+- [24.12.11](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-11.md) - [Dockerfile 최적화]
 - [24.12.10](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-10.md) - [알고리즘 - 트리의 지름]
 - [24.12.09](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-09.md) - [Docker]
 
