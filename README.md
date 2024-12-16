@@ -1,5 +1,9 @@
 ## 🍥 Today I Learned
 
+### [12월 3째주, 9주차] : AWS
+
+- [24.12.16](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-16.md) - [AWS ECR 인증 문제 해결]
+
 ### [12월 2째주, 8주차] : Docker, 알고리즘
 
 - [24.12.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-13.md) - [Docker Swarm, Kubernetis]
