@@ -2,6 +2,7 @@
 
 ### [12월 3째주, 9주차] : AWS
 
+- [24.12.17](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-17.md) - [AWS Elastic Beanstalk, Docker multi container를 이용하여 배포하기]
 - [24.12.16](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-16.md) - [AWS ECR 인증 문제 해결]
 
 ### [12월 2째주, 8주차] : Docker, 알고리즘
