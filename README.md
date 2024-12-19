@@ -2,6 +2,7 @@
 
 ### [12월 3째주, 9주차] : AWS
 
+- [24.12.19](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-19.md) - [무중단 배포 마무리 및 아키텍쳐 정리]
 - [24.12.18](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-18.md) - [nginx error 502 Bad Gateway 오류 해결하기]
 - [24.12.17](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-17.md) - [AWS Elastic Beanstalk, Docker multi container를 이용하여 배포하기]
 - [24.12.16](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-16.md) - [AWS ECR 인증 문제 해결]
