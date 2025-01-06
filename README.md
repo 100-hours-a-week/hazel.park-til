@@ -1,5 +1,9 @@
 ## 🍥 Today I Learned
 
+### [1월 2째주, 9주차] : JS
+
+- [25.01.06](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-06.md) - [Shadow DOM에 동적 CSS 적용하기]
+
 ### [12월 3째주, 9주차] : AWS
 
 - [24.12.19](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Dec/2024-12-19.md) - [무중단 배포 마무리 및 아키텍쳐 정리]
