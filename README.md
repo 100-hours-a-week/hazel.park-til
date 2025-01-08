@@ -2,6 +2,7 @@
 
 ### [1월 2째주, 9주차] : JS
 
+- [25.01.08](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-08.md) - [CSS 변수 이용하기]
 - [25.01.07](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-07.md) - [AWS 계정 이관]
 - [25.01.06](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-06.md) - [Shadow DOM에 동적 CSS 적용하기]
 
