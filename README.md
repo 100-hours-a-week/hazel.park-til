@@ -1,6 +1,6 @@
 ## 🍥 Today I Learned
 
-### [1월 2째주, 9주차] : JS
+### [1월 2째주, 9주차] : JS, AWS, k8s
 
 - [25.01.11](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-11.md) - [Kubernetes Archi, Object]
 - [25.01.09](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-09.md) - [커뮤니티 보안 강화]
