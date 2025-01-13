@@ -1,5 +1,9 @@
 ## 🍥 Today I Learned
 
+### [1월 2째주, 10주차] : 알고리즘
+
+- [25.01.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-13.md) - [C++ 출력 시간 최적화하기]
+
 ### [1월 2째주, 9주차] : JS, AWS, k8s
 
 - [25.01.11](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-11.md) - [Kubernetes Archi, Object]
