@@ -1,6 +1,6 @@
 ## 🍥 Today I Learned
 
-### [1월 2째주, 10주차] : 알고리즘
+### [1월 2째주, 10주차] : 알고리즘, CS
 
 - [25.01.14](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-14.md) - [디바운싱 이해 및 활용]
 - [25.01.13](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-13.md) - [C++ 출력 시간 최적화하기]
