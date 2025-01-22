@@ -2,6 +2,7 @@
 
 ### [1월 3째주, 11주차] : 알고리즘
 
+- [25.01.22](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-22.md) - [K8s Service, Ingress]
 - [25.01.20](https://github.com/100-hours-a-week/hazel.park-til/blob/main/Jan/2025-01-20.md) - [슬라이딩 윈도우와 deque를 활용한 최솟값 탐색]
 
 ### [1월 2째주, 10주차] : 알고리즘, CS, K8s
